@@ -1,0 +1,3 @@
+[submodule "GatedPixelCNNPyTorch"]
+	path = GatedPixelCNNPyTorch
+	url = https://github.com/NuTufts/GatedPixelCNNPyTorch.git
