@@ -1,3 +1,6 @@
 [submodule "GatedPixelCNNPyTorch"]
 	path = GatedPixelCNNPyTorch
 	url = https://github.com/NuTufts/GatedPixelCNNPyTorch.git
+[submodule "lmconv"]
+	path = lmconv
+	url = https://github.com/NuTufts/lmconv.git
